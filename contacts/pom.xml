@@ -59,7 +59,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>contactapi</finalName>
+	<finalName>contactBackend</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
